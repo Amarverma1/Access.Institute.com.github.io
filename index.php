@@ -1,0 +1,866 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Access Institute</title>
+  <meta content="" name="description">
+  <meta content="" name="Access Institute, Access Institute Lakhimpur, Access Institute lakhimpur kheri, Institute Access , Popular completion clases in lakhimpur kheri, comptition clases access, Access comptition clasess, best choching in lakhimpur kheri,
+  Institute of access, Access Institute, choching center, lakhimpur kheri choching center, Access Institute">
+
+  <!-- Favicons -->
+  <link href="assets/img/logo.png" rel="icon">
+  <link href="assets/img/logo.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link
+    href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+    rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top">
+    <div class="container d-flex align-items-center justify-content-between">
+
+      <!--<h1 class="logo"><a href="index.html">Life Code</a></h1>-->
+      <!-- Uncomment below if you prefer to use an image logo -->
+      <a href="index.html" class="logo"><img src="assets/img/logo.png">Access Institute<alt="" class="img-fluid"></a>
+
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+          <li><a class="nav-link scrollto" href="#about">About</a></li>
+          <li><a class="nav-link scrollto" href="#popular-courses">Courses</a></li>
+          <li><a class="nav-link scrollto " href="Registration.php">Registration</a></li>
+          <li class="dropdown"><a href="#"><span>More</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li><a href="certi.html">Varify Certificate</a></li>
+              <li class="dropdown"><a href="#"><span>Other Courses</span> <i class="bi bi-chevron-right"></i></a>
+                <ul>
+                  <li><a href="courses.html">O level</a></li>
+                  <li><a href="courses.html">CCC</a></li>
+                  <li><a href="courses.html">Typing Speed</a></li>
+                  <li><a href="courses.html">ADCA</a></li>
+                  <li><a href="courses.html">Deep Drop Down 5</a></li>
+                </ul>
+              </li>
+              <li><a href="events.html">Events</a></li>
+              <li><a href="#">Drop Down 3</a></li>
+              <li><a href="#">Drop Down 4</a></li>
+            </ul>
+          </li>
+          <li><a class="nav-link scrollto" href="#team">Trainers</a></li>
+          <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+          <li><a class="getstarted scrollto" href="login.html"><strong>Login</strong></a></li>
+
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav>
+      <!-- .navbar -->
+
+    </div>
+
+  </header>
+  <!-- End Header -->
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero">
+    <div id="heroCarousel" data-bs-interval="5000" class="carousel slide carousel-fade" data-bs-ride="carousel">
+
+      <ol class="carousel-indicators" id="hero-carousel-indicators"></ol>
+
+      <div class="carousel-inner" role="listbox">
+
+        <!-- Slide 1 -->
+        <div class="carousel-item active" style="background-image: url(assets/img/slide/slide4.jpg)">
+          <div class="carousel-container">
+            <div class="container">
+              <h2 class="animate__animated animate__fadeInDown">Welcome to <span>Access Institute</span></h2>
+              <p class="animate__animated animate__fadeInUp"><strong>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                Laboriosam, cupiditate, non voluptatum explicabo libero voluptatem velit eos mollitia porro, vel
+                pariatur! Dolorum iusto voluptatem aliquam labore error laborum, nulla minima?</strong>
+
+              </p>
+              <a href="Registration.html" class="btn-get-started animate__animated animate__fadeInUp scrollto">Registration
+              </a>
+            </div>
+          </div>
+        </div>
+        <!-- Slide 2 -->
+        <div class="carousel-item" style="background-image: url(assets/img/slide/slide8.jpg)">
+          <div class="carousel-container">
+            <div class="container">
+              <h2 class="animate__animated animate__fadeInDown">Who We Are</h2>
+              <p class="animate__animated animate__fadeInUp"><strong>Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                Maxime, recusandae molestiae? Velit quia ut sit quaerat esse eveniet reiciendis molestiae facilis
+                necessitatibus commodi accusantium quam expedita fugiat, rerum dolores eligendi asperiores earum odit
+                illo quod consequatur assumenda culpa. Nihil reprehenderit ipsum vero obcaecati sint, temporibus odio
+                blanditiis incidunt id dolor?.
+                Reprehenderit, rerum!.</strong>
+              </p>
+              <a href="Registration.html" class="btn-get-started animate__animated animate__fadeInUp scrollto">Registration
+              </a>
+            </div>
+          </div>
+        </div>
+        <!--Slide 3-->
+        <div class="carousel-item" style="background-image: url(assets/img/slide/slide7.jpg)">
+          <div class="carousel-container">
+            <div class="container">
+              <h2 class="animate__animated animate__fadeInDown">Our Education Culture</h2>
+              <p class="animate__animated animate__fadeInUp"><strong>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut
+                excepturi voluptas deleniti? Sequi totam numquam quia cum dolore praesentium quidem architecto nemo
+                vero? Eius, similique nemo accusantium consequatur fugit error?.</strong></p>
+              <a href="Registration.html" class="btn-get-started animate__animated animate__fadeInUp scrollto">Registration
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <a class="carousel-control-prev" href="#heroCarousel" role="button" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
+      </a>
+
+      <a class="carousel-control-next" href="#heroCarousel" role="button" data-bs-slide="next">
+        <span class="carousel-control-next-icon bi bi-chevron-right" aria-hidden="true"></span>
+      </a>
+
+    </div>
+  </section><!-- End Hero -->
+
+  <main id="main">
+
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>About</h2>
+          <p>About Us</p>
+        </div>
+
+        <div class="row content">
+          <div class="col-lg-6">
+            <p>
+              Welcome to Access Institute! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Facere sit ducimus
+              laboriosam deleniti culpa eligendi consectetur nostrum voluptas recusandae nihil error, officiis, iure
+              numquam! A reiciendis consectetur maxime voluptatum nulla perspiciatis eius vel molestias? Quod nemo
+              cupiditate inventore eum voluptate.
+
+            </p>
+            <ul>
+              <li><i class="ri-check-double-line"></i> We are providing Comptition Courses. </li>
+              <li><i class="ri-check-double-line"></i> Access Institute is the best comptition Institutein lakhimpur
+                kheri. </li>
+              <li><i class="ri-check-double-line"></i> Apply and get a jobs. </li>
+            </ul>
+          </div>
+          <div class="col-lg-6 pt-4 pt-lg-0">
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati facilis voluptates, quo exercitationem
+              commodi error? Reiciendis, harum porro suscipit aspernatur est sapiente ea, earum laboriosam officia a
+              expedita saepe molestias asperiores itaque consequatur illo veritatis quo quasi alias accusamus impedit.
+              Voluptates doloribus aperiam, temporibus aliquam omnis autem! Eligendi, quisquam fuga?
+
+            </p>
+            <a href="about.html" class="btn-learn-more">Learn More</a>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End About Section -->
+
+    <!-- ======= Counts Section ======= -->
+    <section id="counts" class="counts">
+      <div class="container" data-aos="fade-up">
+
+        <div class="row no-gutters">
+
+          <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
+            <div class="count-box">
+              <i class="bi bi-emoji-smile"></i>
+              <span data-purecounter-start="0" data-purecounter-end="2000" data-purecounter-duration="1"
+                class="purecounter"></span>
+              <p><strong>Happy Students</strong></p>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
+            <div class="count-box">
+              <i class="bi bi-journal-richtext"></i>
+              <span data-purecounter-start="0" data-purecounter-end="10" data-purecounter-duration="1"
+                class="purecounter"></span>
+              <p><strong>Trainers</strong></p>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
+            <div class="count-box">
+              <i class="bi bi-headset"></i>
+              <span data-purecounter-start="0" data-purecounter-end="24" data-purecounter-duration="1"
+                class="purecounter"></span>
+              <p><strong>Hours Of Support</strong></p>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
+            <div class="count-box">
+              <i class="bi bi-people"></i>
+              <span data-purecounter-start="0" data-purecounter-end="400" data-purecounter-duration="1"
+                class="purecounter"></span>
+              <p><strong>Current Time Students</strong></p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Counts Section -->
+
+    <!-- ======= Popular Courses Section ======= -->
+    <section id="popular-courses" class="courses">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Courses</h2>
+          <p>Popular Courses</p>
+        </div>
+
+        <div class="row" data-aos="zoom-in" data-aos-delay="100">
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="course-item">
+              <img src="assets/img/course-1.jpg" class="img-fluid" alt="...">
+              <div class="course-content">
+                <div class="d-flex justify-content-between align-items-center mb-3">
+                  <h4>PET</h4>
+                  <p class="price">$169</p>
+                </div>
+
+                <h3><a href="course-details.html">Primary ELigibilty Test</a></h3>
+                <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem
+                  tempore.</p>
+                <div class="trainer d-flex justify-content-between align-items-center">
+                  <div class="trainer-profile d-flex align-items-center">
+                    <img src="assets/img/trainers/trainer-2.jpg" class="img-fluid" alt="">
+                    <span>Antonio</span>
+                  </div>
+                  <div class="trainer-rank d-flex align-items-center">
+                    <i class="bx bx-user"></i>&nbsp;50
+                    &nbsp;&nbsp;
+                    <i class="bx bx-heart"></i>&nbsp;65
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
+            <div class="course-item">
+              <img src="assets/img/course-2.jpg" class="img-fluid" alt="...">
+              <div class="course-content">
+                <div class="d-flex justify-content-between align-items-center mb-3">
+                  <h4>SSC</h4>
+                  <p class="price">$250</p>
+                </div>
+
+                <h3><a href="course-details.html">SSC CGL</a></h3>
+                <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem
+                  tempore.</p>
+                <div class="trainer d-flex justify-content-between align-items-center">
+                  <div class="trainer-profile d-flex align-items-center">
+                    <img src="assets/img/trainers/trainer-2.jpg" class="img-fluid" alt="">
+                    <span>Lana</span>
+                  </div>
+                  <div class="trainer-rank d-flex align-items-center">
+                    <i class="bx bx-user"></i>&nbsp;35
+                    &nbsp;&nbsp;
+                    <i class="bx bx-heart"></i>&nbsp;42
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
+            <div class="course-item">
+              <img src="assets/img/course-3.jpg" class="img-fluid" alt="...">
+              <div class="course-content">
+                <div class="d-flex justify-content-between align-items-center mb-3">
+                  <h4>SSC</h4>
+                  <p class="price">$180</p>
+                </div>
+
+                <h3><a href="course-details.html">SSC GD</a></h3>
+                <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem
+                  tempore.</p>
+                <div class="trainer d-flex justify-content-between align-items-center">
+                  <div class="trainer-profile d-flex align-items-center">
+                    <img src="assets/img/trainers/trainer-2.jpg" class="img-fluid" alt="">
+                    <span>Brandon</span>
+                  </div>
+                  <div class="trainer-rank d-flex align-items-center">
+                    <i class="bx bx-user"></i>&nbsp;20
+                    &nbsp;&nbsp;
+                    <i class="bx bx-heart"></i>&nbsp;85
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div> <!-- End Course Item-->
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="course-item">
+              <img src="assets/img/course-1.jpg" class="img-fluid" alt="...">
+              <div class="course-content">
+                <div class="d-flex justify-content-between align-items-center mb-3">
+                  <h4>PET</h4>
+                  <p class="price">$169</p>
+                </div>
+
+                <h3><a href="course-details.html">Primary ELigibilty Test</a></h3>
+                <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem
+                  tempore.</p>
+                <div class="trainer d-flex justify-content-between align-items-center">
+                  <div class="trainer-profile d-flex align-items-center">
+                    <img src="assets/img/trainers/trainer-2.jpg" class="img-fluid" alt="">
+                    <span>Antonio</span>
+                  </div>
+                  <div class="trainer-rank d-flex align-items-center">
+                    <i class="bx bx-user"></i>&nbsp;50
+                    &nbsp;&nbsp;
+                    <i class="bx bx-heart"></i>&nbsp;65
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="course-item">
+              <img src="assets/img/course-1.jpg" class="img-fluid" alt="...">
+              <div class="course-content">
+                <div class="d-flex justify-content-between align-items-center mb-3">
+                  <h4>PET</h4>
+                  <p class="price">$169</p>
+                </div>
+
+                <h3><a href="course-details.html">Primary ELigibilty Test</a></h3>
+                <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem
+                  tempore.</p>
+                <div class="trainer d-flex justify-content-between align-items-center">
+                  <div class="trainer-profile d-flex align-items-center">
+                    <img src="assets/img/trainers/trainer-2.jpg" class="img-fluid" alt="">
+                    <span>Antonio</span>
+                  </div>
+                  <div class="trainer-rank d-flex align-items-center">
+                    <i class="bx bx-user"></i>&nbsp;50
+                    &nbsp;&nbsp;
+                    <i class="bx bx-heart"></i>&nbsp;65
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="course-item">
+              <img src="assets/img/course-1.jpg" class="img-fluid" alt="...">
+              <div class="course-content">
+                <div class="d-flex justify-content-between align-items-center mb-3">
+                  <h4>PET</h4>
+                  <p class="price">$169</p>
+                </div>
+
+                <h3><a href="course-details.html">Primary ELigibilty Test</a></h3>
+                <p>Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem
+                  tempore.</p>
+                <div class="trainer d-flex justify-content-between align-items-center">
+                  <div class="trainer-profile d-flex align-items-center">
+                    <img src="assets/img/trainers/trainer-2.jpg" class="img-fluid" alt="">
+                    <span>Antonio</span>
+                  </div>
+                  <div class="trainer-rank d-flex align-items-center">
+                    <i class="bx bx-user"></i>&nbsp;50
+                    &nbsp;&nbsp;
+                    <i class="bx bx-heart"></i>&nbsp;65
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!--end-->
+
+
+        </div>
+
+      </div>
+    </section><!-- End Popular Courses Section -->
+
+    <!-- ======= Testimonials Section ======= -->
+    <section id="testimonials" class="testimonials section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Testimonials</h2>
+          <p>Our Students Testimonials</p>
+        </div>
+
+        <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
+          <div class="swiper-wrapper">
+
+            <div class="swiper-slide">
+              <div class="testimonial-wrap">
+                <div class="testimonial-item">
+                  <img src="assets/img/testimonials/testimonials-1.png" class="testimonial-img" alt="">
+                  <h3>Amar Verma</h3>
+                  <h4>CEO &amp; Founder</h4>
+                  <p>
+                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus.
+                    Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                  </p>
+                </div>
+              </div>
+            </div>--><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-wrap">
+                <div class="testimonial-item">
+                  <img src="assets/img/testimonials/testimonials-2.png" class="testimonial-img" alt="">
+                  <h3>Sara Khanna</h3>
+                  <h4>UP Police</h4>
+                  <h4>Roll No-78429821</h4>
+
+                  <p>
+                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio molestias neque sed minus consequatur
+                    repellendus iure ut recusandae ipsum, nisi nihil omnis quidem exercitationem, necessitatibus id.
+                    Possimus aperiam veritatis molestiae?
+                  <div class=""></div>
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                  </p>
+                </div>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-wrap">
+                <div class="testimonial-item">
+                  <img src="assets/img/testimonials/testimonials-3.png" class="testimonial-img" alt="">
+                  <h3>Shivam Mherotra</h3>
+                  <h4>SSC GD</h4>
+                  <h4>Roll No-78429821</h4>
+                  <p>
+                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio molestias neque sed minus consequatur
+                    repellendus iure ut recusandae ipsum, nisi nihil omnis quidem exercitationem, necessitatibus id.
+                    Possimus aperiam veritatis molestiae?
+                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                  </p>
+                </div>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-wrap">
+                <div class="testimonial-item">
+                  <img src="assets/img/testimonials/testimonials-4.png" class="testimonial-img" alt="">
+                  <h3>Kartik awasthi</h3>
+                  <h4>SSC CGL 2021</h4>
+                  <h4>Roll No-78429821</h4>
+                  <p>
+                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio molestias neque sed minus consequatur
+                    repellendus iure ut recusandae ipsum, nisi nihil omnis quidem exercitationem, necessitatibus id.
+                    Possimus aperiam veritatis molestiae?
+                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                  </p>
+                </div>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-wrap">
+                <div class="testimonial-item">
+                  <img src="assets/img/testimonials/testimonials-5.png" class="testimonial-img" alt="">
+                  <h3>Munal Thakur</h3>
+                  <h4>CISF</h4>
+                  <h4>Roll No-78429821</h4>
+
+                  <p>
+                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio molestias neque sed minus consequatur
+                    repellendus iure ut recusandae ipsum, nisi nihil omnis quidem exercitationem, necessitatibus id.
+                    Possimus aperiam veritatis molestiae?
+                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                  </p>
+                </div>
+              </div>
+            </div><!-- End testimonial item -->
+
+          </div>
+          <div class="swiper-pagination"></div>
+        </div>
+
+      </div>
+    </section><!-- End Testimonials Section -->
+
+    <!-- ======= Team Section ======= -->
+    <section id="team" class="team section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Team</h2>
+          <p>Check our Trainers</p>
+        </div>
+
+        <div class="row">
+
+          <div class="col-xl-3 col-lg-4 col-md-6">
+            <div class="member" data-aos="zoom-in" data-aos-delay="100">
+              <img src="assets/img/trainers/trainer-2.jpg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Shikha Vishwas </h4>
+                  <span>Chief Executive Officer</span>
+                </div>
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-lg-4 col-md-6" data-wow-delay="0.1s">
+            <div class="member" data-aos="zoom-in" data-aos-delay="200">
+              <img src="assets/img/trainers/trainer-2.jpg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Shikha Vishwas </h4>
+                  <span>Product Manager</span>
+                </div>
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-lg-4 col-md-6" data-wow-delay="0.2s">
+            <div class="member" data-aos="zoom-in" data-aos-delay="300">
+              <img src="assets/img/trainers/trainer-2.jpg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Shikha Vishwas </h4>
+                  <span>CTO</span>
+                </div>
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-lg-4 col-md-6" data-wow-delay="0.3s">
+            <div class="member" data-aos="zoom-in" data-aos-delay="400">
+              <img src="assets/img/trainers/trainer-2.jpg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Shikha Vishwas </h4>
+                  <span>Accountant</span>
+                </div>
+                <div class="social">
+                  <a href=""><i class="bi bi-twitter"></i></a>
+                  <a href=""><i class="bi bi-facebook"></i></a>
+                  <a href=""><i class="bi bi-instagram"></i></a>
+                  <a href=""><i class="bi bi-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+    <!--End Team Section-->
+
+    <!-- ======= Contact Section ======= -->
+    <section id="contact" class="contact section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Contact</h2>
+          <p>Contact Us</p>
+        </div>
+
+        <div class="row">
+
+          <div class="col-lg-6">
+
+            <div class="row">
+              <div class="col-md-12">
+                <div class="info-box">
+                  <i class="bx bx-map"></i>
+                  <h3>Our Address</h3>
+                  <p>Near Railway Crossing Sitapur Road in <br>Front of Matra Chhaya Mandap <br>Lakhimpur Kheri<br>
+                  </p>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="info-box mt-4">
+                  <i class="bx bx-envelope"></i>
+                  <h3>Email Us</h3>
+                  <p>example@Institute.com<br>contact.example@Institute.com</p>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="info-box mt-4">
+                  <i class="bx bx-phone-call"></i>
+                  <h3>Call Us</h3>
+                  <p>+91 476769874987<br>+05872 573545</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-6">
+            <form action="" method="post" id="email_form"  role="form" class="php-email-form">
+              <div class="row">
+                <div class="col-md-6 form-group">
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+                </div>
+                <div class="col-md-6 form-group mt-3 mt-md-0">
+                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email"
+                    required>
+                </div>
+              </div>
+              <div class="form-group mt-3">
+                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+              </div>
+              <div class="form-group mt-3">
+                <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+              </div>
+             
+              <div class="text-center"><button type="submit" name="send" value="send" >Send Message</button></div>
+            </form>
+          </div>
+
+        </div>
+      </div>
+      <div data-aos="fade-up">
+        <iframe style="border:0; width: 100%;margin-top: 30px; height: 350px;"
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1762.3095742515918!2d80.77732606867478!3d27.94431856069896!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399f352838cc54d9%3A0xb278ff1581de6a7d!2sAccess%20Institute%20-%20Computers%20%26%20Competition%20Classes!5e0!3m2!1shi!2sin!4v1697688804798!5m2!1shi!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"
+        frameborder="0" allowfullscreen
+          width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade" frameborder="0" allowfullscreen></iframe>
+      </div>
+
+    </section><!-- End Contact Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-4 col-md-6">
+            <div class="footer-info">
+              <h3>Access Institute</h3>
+              <p class="pb-3"><em>Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                  Aut omnis nostrum nam ea quia illum?</em>
+              </p>
+              <p>
+                Near Railway Crossing Sitapur road in <br>Front of Matra Chhaya Mandap <br>Lakhimpur Kheri<br>
+                <strong>Phone:</strong> +91 5654654665<br>
+                <strong>Email:</strong> info@example.com<br>
+              </p>
+              <div class="social-links mt-3">
+                <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+                <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+                <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+                <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
+                <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-2 col-md-6 footer-links">
+            <h4>Useful Links</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="#hero">Home</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#about">About us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="courses.html">Courses</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="">Privacy policy</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://play.google.com/store/apps/details?id=com.accessinstitute.in">Download Access Institute App</a></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-2 col-md-6 footer-links">
+            <h4>Our Courses</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="courses.html">SSC GD</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="courses.html">Primary ELigibilty Test</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="courses.html">SSC CGL</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="courses.html">CCC</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="courses.html">O level</a></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-4 col-md-6 footer-newsletter">
+            <h4>Our Newsletter</h4>
+            <p>Join our the program in Lorem ipsum dolor sit amet.
+              with Access Institute</p>
+            <form action="" method="post">
+              <input type="email" name="email"><input type="submit" value="Subscribe">
+            </form>
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong><span>Access Institute</span></strong>. All Rights Reserved
+        2023
+      </div>
+      <div class="credits">
+      Designed by <a><strong><a href="">Amar Verma</a></strong></a>
+      </div>
+  </footer>
+  <!-- End Footer -->
+
+  <div id="preloader"></div>
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+      class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+ 
+ <!--<script>
+    $(document).ready(function () {
+  $('#email_form').submit(function (e) {
+    e.preventDefault();
+
+    var form = $(this);
+    var url = form.attr('action');
+
+    $.ajax({
+      type: "POST",
+      url: 'forms/send.php',
+      data: form.serialize(),
+      success: function (response) {
+        if (response == 'success') {
+          $('.sent-message').fadeIn().html('Your message has been sent. Thank you!');
+          $('.error-message').fadeOut();
+        } else {
+          $('.error-message').fadeIn().html('An error occurred, please try again.');
+          $('.sent-message').fadeOut();
+        }
+      }
+    });
+  });
+});
+  </script>-->
+  
+
+
+</body>
+
+</html>
+<!--<?php
+  //Import PHPMailer classes into the global namespace
+//These must be at the top of your script, not inside a function
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\SMTP;
+use PHPMailer\PHPMailer\Exception;
+
+if(isset($_POST['send']))
+{
+
+  $name = $_POST["name"];  
+  $email = $_POST["email"];
+  $subject = $_POST["subject"];
+  $message = $_POST["message"];
+
+
+
+//Load Composer's autoloader
+require 'C:\xampp\htdocs\access.institute\PHPMailer\Exception.php';
+require 'C:\xampp\htdocs\access.institute\PHPMailer\PHPMailer.php';
+require 'C:\xampp\htdocs\access.institute\PHPMailer\SMTP.php';
+
+//Create an instance; passing `true` enables exceptions
+$mail = new PHPMailer(true);
+
+try {
+    //Server settings
+    $mail->isSMTP();                                            //Send using SMTP
+    $mail->Host       = 'smtp.gmail.com';                     //Set the SMTP server to send through
+    $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
+    $mail->Username   = 'amarverma1435@gmail.com';                     //SMTP username
+    $mail->Password   = 'rpna gcnl wtsj qtyt';                               //SMTP password
+    $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;            //Enable implicit TLS encryption
+    $mail->Port       = 465;                                    //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
+
+    //Recipients
+    $mail->setFrom('amarverma1435@gmail.com', 'contact form');
+    $mail->addAddress('vamar1435@gmail.com', 'Amar verma');     //Add a recipient
+   
+
+    //Content
+    $mail->isHTML(true);                                  //Set email format to HTML
+    $mail->Subject = 'Test contact form';
+    $mail->Body    = "sender Name - $name <br> Sender Email - $email <br> Subject - $subject <br> Massage - $message";
+    
+
+    $mail->send();
+    echo "<div class = 'success'>Massage has Been Sent! <?/div>";
+} catch (Exception $e) {
+  echo "<div class = 'alert'>Massage could't Sent! <?/div>";
+}
+
+}
+
+?>-->
